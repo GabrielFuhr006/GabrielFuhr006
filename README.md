@@ -22,15 +22,36 @@ Busco oportunidade como Desenvolvedor Front-End Júnior para contribuir com cód
 
 ---
 
-## 📫 Contato
-
-📍 Ivoti/RS  
-✉️ gabriel.fuhr06@gmail.com  
-💼 www.linkedin.com/in/gabriel-f%C3%BChr-692789310
-
----
-
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielFuhr006&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFuhr006&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielFuhr006&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFuhr006&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GabrielFuhr006&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFuhr006&theme=tokyo-night&hide_border=true" />
+</p>
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://wa.me/5551997788628">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="mailto:gabriel.fuhr06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-f%C3%BChr-692789310/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
