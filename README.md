@@ -1,4 +1,4 @@
-# 🚀 Gabriel Führ | Desenvolvedor Front-End
+# 🚀 Tecnologias e Ferramentas | Front-end 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
