@@ -33,14 +33,14 @@ Busco oportunidade como Desenvolvedor Front-End Júnior para contribuir com cód
   <tr>
     <td>
       <img
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielFuhr006&show_icons=true&theme=tokyonight&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=GabrielFuhr006&show_icons=true&theme=tokyonight&hide_border=true"
         height="170"
         alt="GitHub stats"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielFuhr006&layout=compact&theme=tokyonight&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFuhr006&layout=compact&theme=tokyonight&hide_border=true"
         height="170"
         alt="Top languages"
       />
