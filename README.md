@@ -6,22 +6,19 @@
 
 ---
 
-## 👋 Sobre mim
+## 👨‍💻 Who is Gabriel?
 
-Sou profissional de TI com experiência em ambiente corporativo e atualmente direcionando minha carreira para Desenvolvimento Front-End.
+Sou profissional de TI com experiência em ambiente corporativo e atualmente direcionando minha carreira para o Desenvolvimento Front-End.
 
-Atuo com HTML, CSS, JavaScript e React, desenvolvendo interfaces responsivas, organizadas e orientadas à experiência do usuário.
+Tenho foco em HTML, CSS, JavaScript e React, desenvolvendo interfaces responsivas, organizadas e orientadas à experiência do usuário.
 
-🎯 Buscando oportunidade como Desenvolvedor Front-End Júnior.
+Sou comprometido com evolução contínua, aprendizado constante e boas práticas de desenvolvimento.
 
 ---
 
-## 📌 Projetos em destaque
+## 🎯 Objetivo Profissional
 
-🔹 StrangerThinks  
-Projeto em HTML, CSS e JavaScript com foco em estruturação de layout e interatividade.
-
-(Adicione aqui mais projetos conforme for evoluindo)
+Busco oportunidade como Desenvolvedor Front-End Júnior para contribuir com código limpo, interfaces modernas e soluções eficientes.
 
 ---
 
@@ -34,6 +31,6 @@ Projeto em HTML, CSS e JavaScript com foco em estruturação de layout e interat
 ---
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielFuhr006&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFuhr006&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielFuhr006&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFuhr006&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
