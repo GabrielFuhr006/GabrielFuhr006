@@ -29,33 +29,13 @@ Busco oportunidade como Desenvolvedor Front-End Júnior para contribuir com cód
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=GabrielFuhr006&show_icons=true&theme=tokyonight&hide_border=true"
-        height="170"
-        alt="GitHub stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFuhr006&layout=compact&theme=tokyonight&hide_border=true"
-        height="170"
-        alt="Top languages"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://streak-stats.demolab.com?user=GabrielFuhr006&theme=tokyonight&hide_border=true"
-        height="170"
-        alt="GitHub streak"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GabrielFuhr006&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFuhr006&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## 📫 Contato
 
