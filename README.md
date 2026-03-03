@@ -23,11 +23,10 @@ Busco oportunidade como Desenvolvedor Front-End Júnior para contribuir com cód
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=GabrielFuhr006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=GabrielFuhr006&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
     alt="GitHub stats"
   />
   <img
