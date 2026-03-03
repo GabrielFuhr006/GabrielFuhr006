@@ -28,26 +28,22 @@ Busco oportunidade como Desenvolvedor Front-End Júnior para contribuir com cód
   <tr>
     <td>
       <img
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielFuhr006&show_icons=true&theme=tokyonight&hide_border=true"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielFuhr006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
         height="170"
-        alt="GitHub stats"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielFuhr006&layout=compact&theme=tokyonight&hide_border=true"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielFuhr006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
         height="170"
-        alt="Top languages"
       />
     </td>
   </tr>
-
   <tr>
     <td colspan="2" align="center">
       <img
         src="https://streak-stats.demolab.com?user=GabrielFuhr006&theme=tokyonight&hide_border=true"
         height="170"
-        alt="GitHub streak"
       />
     </td>
   </tr>
