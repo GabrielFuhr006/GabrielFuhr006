@@ -24,34 +24,26 @@ Busco oportunidade como Desenvolvedor Front-End Júnior para contribuir com cód
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=GabrielFuhr006&show_icons=true&theme=tokyonight&hide_border=true"
-        height="170"
-        alt="GitHub stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFuhr006&layout=compact&theme=tokyonight&hide_border=true"
-        height="170"
-        alt="Top languages"
-      />
-    </td>
-  </tr>
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=GabrielFuhr006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="GitHub stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFuhr006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Top languages"
+  />
+</p>
 
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://streak-stats.demolab.com?user=GabrielFuhr006&theme=tokyonight&hide_border=true"
-        height="170"
-        alt="GitHub streak"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=GabrielFuhr006&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
 
 ---
 
