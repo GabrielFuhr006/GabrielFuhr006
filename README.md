@@ -8,11 +8,7 @@
 
 ## 👨‍💻 Who is Gabriel?
 
-Sou profissional de TI com experiência em ambiente corporativo e atualmente direcionando minha carreira para o Desenvolvimento Front-End.
-
-Tenho foco em HTML, CSS, JavaScript e React, desenvolvendo interfaces responsivas, organizadas e orientadas à experiência do usuário.
-
-Sou comprometido com evolução contínua, aprendizado constante e boas práticas de desenvolvimento.
+Sou profissional de TI com experiência em ambiente corporativo e atualmente direcionando minha carreira para o Desenvolvimento Front-End. Tenho foco em HTML, CSS, JavaScript e React, desenvolvendo interfaces responsivas, organizadas e orientadas à experiência do usuário. Sou comprometido com evolução contínua, aprendizado constante e boas práticas de desenvolvimento.
 
 ---
 
