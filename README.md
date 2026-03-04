@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Profissional de TI com experiência em ambiente corporativo e em transição estruturada para o Desenvolvimento Front-End.
+Profissional de TI com experiência em ambiente corporativo, atualmente direcionando minha carreira para o Desenvolvimento Front-End.
 
 - Experiência com **HTML, CSS, JavaScript e React**
 - Desenvolvimento de interfaces **responsivas e orientadas à experiência do usuário**
@@ -18,7 +18,7 @@ Profissional de TI com experiência em ambiente corporativo e em transição est
 
 ## 🎯 Objetivo Profissional
 
-Busco oportunidade como **Desenvolvedor Front-End Júnior**, contribuindo com interfaces modernas, soluções eficientes e alto padrão de qualidade no código.
+Busco oportunidade como **Desenvolvedor Front-End Júnior**, contribuindo com interfaces modernas, código limpo e soluções orientadas à experiência do usuário.
 
 ---
 
@@ -29,15 +29,15 @@ Busco oportunidade como **Desenvolvedor Front-End Júnior**, contribuindo com in
     <td>
       <img
         src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielFuhr006&show_icons=true&theme=tokyonight&hide_border=true"
-        height="150"
-        alt="GitHub stats"
+        height="145"
+        alt="GitHub Stats"
       />
     </td>
     <td>
       <img
         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielFuhr006&layout=compact&theme=tokyonight&hide_border=true"
-        height="150"
-        alt="Top languages"
+        height="145"
+        alt="Top Languages"
       />
     </td>
   </tr>
@@ -46,8 +46,8 @@ Busco oportunidade como **Desenvolvedor Front-End Júnior**, contribuindo com in
     <td colspan="2" align="center">
       <img
         src="https://streak-stats.demolab.com?user=GabrielFuhr006&theme=tokyonight&hide_border=true"
-        height="160"
-        alt="GitHub streak"
+        height="155"
+        alt="GitHub Streak"
       />
     </td>
   </tr>
@@ -56,7 +56,7 @@ Busco oportunidade como **Desenvolvedor Front-End Júnior**, contribuindo com in
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFuhr006&theme=tokyo-night&hide_border=true"
-    alt="Contribution graph"
+    alt="Contribution Graph"
   />
 </p>
 
