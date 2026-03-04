@@ -8,15 +8,17 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou profissional de TI com experiência em ambiente corporativo e em transição estruturada para Desenvolvimento Front-End.  
-Atuo com **HTML, CSS, JavaScript e React**, criando interfaces **responsivas**, organizadas e orientadas à experiência do usuário.  
-Tenho foco em **código limpo**, boas práticas e evolução contínua.
+Profissional de TI com experiência em ambiente corporativo e em transição estruturada para o Desenvolvimento Front-End.
+
+- Experiência com **HTML, CSS, JavaScript e React**
+- Desenvolvimento de interfaces **responsivas e orientadas à experiência do usuário**
+- Foco em **código limpo, boas práticas e evolução contínua**
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Busco oportunidade como **Desenvolvedor Front-End Júnior** para contribuir com interfaces modernas, soluções eficientes e um bom padrão de qualidade no código.
+Busco oportunidade como **Desenvolvedor Front-End Júnior**, contribuindo com interfaces modernas, soluções eficientes e alto padrão de qualidade no código.
 
 ---
 
@@ -27,14 +29,14 @@ Busco oportunidade como **Desenvolvedor Front-End Júnior** para contribuir com 
     <td>
       <img
         src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielFuhr006&show_icons=true&theme=tokyonight&hide_border=true"
-        height="160"
+        height="150"
         alt="GitHub stats"
       />
     </td>
     <td>
       <img
         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielFuhr006&layout=compact&theme=tokyonight&hide_border=true"
-        height="160"
+        height="150"
         alt="Top languages"
       />
     </td>
@@ -44,7 +46,7 @@ Busco oportunidade como **Desenvolvedor Front-End Júnior** para contribuir com 
     <td colspan="2" align="center">
       <img
         src="https://streak-stats.demolab.com?user=GabrielFuhr006&theme=tokyonight&hide_border=true"
-        height="165"
+        height="160"
         alt="GitHub streak"
       />
     </td>
