@@ -35,6 +35,7 @@ Busco oportunidade como Desenvolvedor Front-End Júnior para contribuir com cód
       />
     </td>
   </tr>
+
   <tr>
     <td colspan="2" align="center">
       <img
@@ -44,6 +45,12 @@ Busco oportunidade como Desenvolvedor Front-End Júnior para contribuir com cód
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFuhr006&theme=tokyo-night&hide_border=true"
+  />
+</p>
 
 ## 📫 Contato
 
